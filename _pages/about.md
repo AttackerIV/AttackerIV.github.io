@@ -10,4 +10,4 @@ redirect_from:
 
 先记录一些有关“科考”的事情
 
-其他板块为![academicpages.github.io](https://academicpages.github.io/)模版默认内容
+其他板块为(https://academicpages.github.io/)模版默认内容
