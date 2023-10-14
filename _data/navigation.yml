@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "科考"
+    url: /科考/
+
   - title: "Publications"
     url: /publications/
 
