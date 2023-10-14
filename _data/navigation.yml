@@ -3,20 +3,20 @@ main:
   - title: "科考"
     url: /publications/
 
-  - title: ""
+  - title: "Talks"
     url: /talks/    
 
-  - title: ""
+  - title: "Teaching"
     url: /teaching/    
     
-  - title: ""
+  - title: "Portfolio"
     url: /portfolio/
         
-  - title: ""
+  - title: "Blog Posts"
     url: /year-archive/
     
-  - title: ""
+  - title: "CV"
     url: /cv/
     
-  - title: ""
+  - title: "Guide"
     url: /markdown/
