@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Han Zhang / Site Title"
+title                    : "晗 / Site Title"
 title_separator          : "-"
 name                     : &name "AttackerIV"
 description              : &description "personal description"
