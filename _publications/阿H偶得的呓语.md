@@ -1,0 +1,10 @@
+---
+title: "呓语"
+collection: publications
+permalink: /publication/阿H偶得的呓语
+excerpt: '读书会讲稿'
+date: 2023-3-18
+venue: '科考队'
+paperurl: 'http://attackeriv.github.io/files/阿H偶得的呓语.html'
+citation: ''
+---
